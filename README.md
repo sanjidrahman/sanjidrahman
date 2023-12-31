@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjid Rahman</h1>
+<h1 align="center">Hi 👋, I'm Sanjid Rahman EK</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
